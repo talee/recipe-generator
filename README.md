@@ -5,6 +5,6 @@ As a home cook, I want to break out of my current cooking habits and combination
 
 Recipe Generator to the rescue! 🦸🏻‍♀️
 
-http://recipegenerator.io/
+https://recipegenerator.io/
 
 TODO: Tasks/optimizations
