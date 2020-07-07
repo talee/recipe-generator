@@ -1,5 +1,5 @@
 # recipe-generator
-Generate random recipes
+Generate random recipes using Recipe Generator. Find new ingredients and spices and cooking methods for dinner or lunch.
 
 As a home cook, I want to break out of my current cooking habits and combinations, but currently I only have existing recipes/cooking methods, which makes me feel restricted and uninspired. ☹️
 
