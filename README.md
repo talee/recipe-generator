@@ -7,4 +7,4 @@ Recipe Generator to the rescue! 🦸🏻‍♀️
 
 https://recipegenerator.io/
 
-TODO: Tasks/optimizations
+TODO: Tasks, change list, optimizations, feedback
